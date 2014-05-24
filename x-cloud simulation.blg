@@ -3,52 +3,55 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: x-cloud simulation.aux
 The style file: plain.bst
 Database file #1: references.bib
-Repeated entry---line 2227 of file references.bib
+Repeated entry---line 1944 of file references.bib
  : @article{blajic2006latency
  :                           ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "BT_IP" isn't style-file defined
---line 4841 of file references.bib
+--line 3251 of file references.bib
+Warning--entry type for "ericsson_dot" isn't style-file defined
+--line 3299 of file references.bib
 Warning--to sort, need author or key in BT_IP
-You've used 2 entries,
+Warning--to sort, need author or key in ericsson_dot
+You've used 3 entries,
             2118 wiz_defined-function locations,
-            508 strings with 4248 characters,
-and the built_in function-call counts, 445 in all, are:
-= -- 38
-> -- 19
+            511 strings with 4296 characters,
+and the built_in function-call counts, 599 in all, are:
+= -- 51
+> -- 20
 < -- 0
-+ -- 8
++ -- 9
 - -- 6
-* -- 27
-:= -- 75
-add.period$ -- 4
-call.type$ -- 2
-change.case$ -- 9
+* -- 35
+:= -- 90
+add.period$ -- 5
+call.type$ -- 3
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 17
-empty$ -- 41
+cite$ -- 5
+duplicate$ -- 24
+empty$ -- 64
 format.name$ -- 6
-if$ -- 92
+if$ -- 130
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 3
 missing$ -- 1
-newline$ -- 11
+newline$ -- 14
 num.names$ -- 2
-pop$ -- 15
+pop$ -- 24
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 9
 quote$ -- 0
-skip$ -- 15
+skip$ -- 23
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
+substring$ -- 15
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 1
+type$ -- 12
+warning$ -- 2
 while$ -- 2
-width$ -- 3
-write$ -- 18
+width$ -- 4
+write$ -- 24
 (There was 1 error message)

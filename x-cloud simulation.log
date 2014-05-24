@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  24 MAY 2014 22:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  24 MAY 2014 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -850,28 +850,38 @@ LaTeX Font Info:    ... okay on input line 20.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 65.
+
+<diagram_overview.pdf, id=4, 502.87875pt x 451.6875pt>
+File: diagram_overview.pdf Graphic file (type pdf)
+
+<use diagram_overview.pdf>
+Package pdftex.def Info: diagram_overview.pdf used on input line 62.
+(pdftex.def)             Requested size: 253.04987pt x 227.29054pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 65.
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-<omni_motivation.pdf, id=4, 1699.34875pt x 607.26875pt>
+<omni_motivation.pdf, id=5, 1699.34875pt x 607.26875pt>
 File: omni_motivation.pdf Graphic file (type pdf)
 
 <use omni_motivation.pdf>
-Package pdftex.def Info: omni_motivation.pdf used on input line 69.
+Package pdftex.def Info: omni_motivation.pdf used on input line 76.
 (pdftex.def)             Requested size: 266.9228pt x 95.3925pt.
 
-Overfull \hbox (13.87294pt too wide) in paragraph at lines 69--70
+Overfull \hbox (13.87294pt too wide) in paragraph at lines 76--77
  [][] 
  []
 
-(./x-cloud simulation.bbl)
+[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./diagram_overview.pdf> <./omni_motivation.pdf>] (./x-cloud simulation.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -883,28 +893,27 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[2
 
-
- <./omni_motivation.pdf>] (./x-cloud simulation.aux) ) 
+] (./x-cloud simulation.aux) ) 
 Here is how much of TeX's memory you used:
- 13144 strings out of 493488
- 245040 string characters out of 3141326
- 312962 words of memory out of 3000000
- 16166 multiletter control sequences out of 15000+200000
+ 13151 strings out of 493488
+ 245195 string characters out of 3141326
+ 313962 words of memory out of 3000000
+ 16172 multiletter control sequences out of 15000+200000
  35842 words of font info for 71 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,7n,55p,984b,285s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/
-texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2012/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2012/texmf-dist/fonts/t
-ype1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
-imes/utmbi8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (1 page, 58688 bytes).
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvi
+ps/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pf
+b></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texli
+ve/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "x-cloud simulation.pdf" (2 pages, 76758 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
