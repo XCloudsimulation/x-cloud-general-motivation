@@ -1,8 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{ericsson_dot}
-Ericsson radio dot system, 05 2014.
-
 \bibitem{BT_IP}
 Monthly network summary, 05 2014.
 
@@ -10,5 +7,18 @@ Monthly network summary, 05 2014.
 T~Blaji{\'c}, D~Noguli{\'c}, and M~Dru{\v{z}}ijani{\'c}.
 \newblock Latency improvements in 3g long term evolution.
 \newblock {\em Mipro CTI, svibanj}, 2006.
+
+\bibitem{5959161}
+H.~Khazaei, J.~Misic, and V.B. Misic.
+\newblock Performance analysis of cloud computing centers using m/g/m/m+r
+  queuing systems.
+\newblock {\em Parallel and Distributed Systems, IEEE Transactions on},
+  23(5):936--943, May 2012.
+
+\bibitem{Ramasubramanian:2009:TIL:2492101.1555357}
+Venugopalan Ramasubramanian, Dahlia Malkhi, Fabian Kuhn, Mahesh Balakrishnan,
+  Archit Gupta, and Aditya Akella.
+\newblock On the treeness of internet latency and bandwidth.
+\newblock {\em SIGMETRICS Perform. Eval. Rev.}, 37(1):61--72, June 2009.
 
 \end{thebibliography}
