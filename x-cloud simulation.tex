@@ -31,10 +31,10 @@ Georgia Institute of Technology\\
 Atlanta, Georgia 30332--0250\\
 Email: http://www.michaelshell.org/contact.html}
 \and
-\IEEEauthorblockN{Homer Simpson}
-\IEEEauthorblockA{Twentieth Century Fox\\
-Springfield, USA\\
-Email: homer@thesimpsons.com}
+\IEEEauthorblockN{Jakub Krzywda}
+\IEEEauthorblockA{Dept. of Computing Science\\Umeå University\\
+SE-901 87 Umeå, Sweden\\
+Email: jakub@cs.umu.se}
 \and
 \IEEEauthorblockN{James Kirk\\ and Montgomery Scott}
 \IEEEauthorblockA{Starfleet Academy\\
@@ -58,7 +58,7 @@ The abstract goes here.
 \begin{figure}[tb]
 	\centering
 	\includegraphics[width=\linewidth]{diagram_overview.pdf} 
-	\caption{Omnipresent cloud}
+	\caption{\xcloud}
 	\label{fig:diagram_overview}
 \end{figure}
 
@@ -71,7 +71,7 @@ The abstract goes here.
 \subsection{The bandwidth case for \xcloud}
 
 \subsection{The latency case for \xcloud}
-The intermediate latency between a client and a data-centre is a product of propagation, modulation, and network routing and traffic shaping. Propagation is a clear physical obstacle to reducing latency, and there is very little evidence to suggest that information will propagate faster than $\frac{2}{3}$ of the speed of light, at scale, in the near future. Furthermore, the delay in the backbone network is incurred to the most part by routing. A full point to point network where the propagation speed is the only limit, is not economically viable and would dissolve the fabric of the Internet. As such, we can always expect a certain amount of network contributed latency and jitter. At best, an LTE mobile access network adds about 5 ms of latency \cite{blajic2006latency}. Radio access network latency can be expected to diminish over the next few generations of mobile networks. 
+The intermediate latency between a client and a data centre is a product of propagation, modulation, and network routing and traffic shaping. Propagation is a clear physical obstacle to reducing latency, and there is very little evidence to suggest that information will propagate faster than $\frac{2}{3}$ of the speed of light, at scale, in the near future. Furthermore, the delay in the backbone network is incurred to the most part by routing. A full point to point network where the propagation speed is the only limit, is not economically viable and would dissolve the fabric of the Internet. As such, we can always expect a certain amount of network contributed latency and jitter. At best, an LTE mobile access network adds about 5 ms of latency \cite{blajic2006latency}. Radio access network latency can be expected to diminish over the next few generations of mobile networks. 
 
 \begin{figure}[tb]
 	\centering
@@ -91,7 +91,7 @@ Distributed virtualized mobile networks will rely on centralized compute nodes f
 
 The virtualization resource nodes are conceivably constructed of generic x86 or ARM servers, hosting VMs or containers within which the virtualized mobile network infrastructure is executed. Given the placement of the virtualization resource node, any free or designually excess capacity can be used hist other services.
 
-The the topology is designed to optimize the use of radio resources, the geographic domains which the virtualization resource nodes constitute do not necessarily overlap or map the demographic area which \xcloud services operate.
+The topology is designed to optimize the use of radio resources, the geographic domains which the virtualization resource nodes constitute do not necessarily overlap or map the demographic area which \xcloud services operate.
 
 \section{Simulation model}
 
@@ -105,9 +105,38 @@ The the topology is designed to optimize the use of radio resources, the geograp
 
 \section{Papers}
 
+\subsection{Limitations of current infrastucture \& the setup/structure of \xcloud}
+\subsubsection{Limitations of current infrastucture}
+Simulate the current infrastucture (mobile network + remote/big data centers) and show the limits of it.
+\begin{itemize}
+\item What will happen when the number of mobile devices increases by order(s) of magnitude? The influence on a network connection between a base station and a big/remote data center.
+\item How many mobile devices can be handeled by the current infrastucture (depending on a latency limits)?
+\end{itemize}
+\subsubsection{The setup/structure of \xcloud}
+The \xcloud consists of antennas, small (edge) data centers and big (remote) data centers.
+Small data centers are located close to the antennas and can host both virtualized base station software and VMs with applications.
+Big data centrs are located far away from users.
+Small data centers have smaller amount of resources than big ones (maybe also performance is lower) and running applications there is more expensive.
+However, latency is is much lower than in a case of big (remote) data centers.
+
+Questions about the setup/structure of \xcloud:
+\begin{itemize}
+\item how many antennas should be associated with one small (local) data center? (probably this will be limited by the latency between an antenna and a small data center)
+\item how big should small (local) data centers be (\#CPUs etc)?
+\end{itemize}
+
 \subsection{\xcloud model}
 
 \subsection{Throughput and bandwidth limitations in the \xcloud}
+
+\subsection{Virtual Machine placement and migration in \xcloud}
+
+Regarding placement of Virtual Machines (VMs) in the edge data centers:
+\begin{itemize}
+\item Should a VM that serves all users (even these outside of the range of the directly connected antennas) be placed in an edge data cener or should it be rather an additional instance that serves users that are in the close proximity (duplicating a VM in a big data center)?
+\item When a VM should be placed/duplicated in a small data center?
+\item While users are moving from one antenna to another when VM should be migrated from one edge data center to another one?
+\end{itemize}
 
 \section{Conclusion}
 
