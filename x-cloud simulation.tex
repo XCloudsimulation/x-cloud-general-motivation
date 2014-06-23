@@ -106,12 +106,27 @@ The topology is designed to optimize the use of radio resources, the geographic 
 
 \section{Papers}
 
-\subsection{Limitations of current infrastucture \& the setup/structure of \xcloud}
-\subsubsection{Limitations of current infrastucture}
-Simulate the current infrastucture (mobile network + remote/big data centers) and show the limits of it.
+\subsection{Comparison of existing simulators from the perspective of  \xcloud}
+A survey of existing simulators with comparison of their capabilities (and limitations) to simulate \xcloud.
+
+Simulators of:
+\begin{itemize}
+\item Data centers,
+\item BTS,
+\item Network (BTS --- DC),
+\item Mobile network,
+\item Mobile devices,
+\item Users (mobility).
+\end{itemize}
+
+What is different in operation/simulation of \xcloud?
+
+\subsection{Limitations of current infrastructure \& the setup/structure of \xcloud}
+\subsubsection{Limitations of current infrastructure}
+Simulate the current infrastructure (mobile network + remote/big data centers) and show the limits of it.
 \begin{itemize}
 \item What will happen when the number of mobile devices increases by order(s) of magnitude? The influence on a network connection between a base station and a big/remote data center.
-\item How many mobile devices can be handeled by the current infrastucture (depending on a latency limits)?
+\item How many mobile devices can be handeled by the current infrastructure (depending on a latency limits)?
 \end{itemize}
 \subsubsection{The setup/structure of \xcloud}
 The \xcloud consists of antennas, small (edge) data centers and big (remote) data centers.
@@ -137,6 +152,15 @@ Regarding placement of Virtual Machines (VMs) in the edge data centers:
 \item Should a VM that serves all users (even these outside of the range of the directly connected antennas) be placed in an edge data cener or should it be rather an additional instance that serves users that are in the close proximity (duplicating a VM in a big data center)?
 \item When a VM should be placed/duplicated in a small data center?
 \item While users are moving from one antenna to another when VM should be migrated from one edge data center to another one?
+\end{itemize}
+
+\subsection{Other thoughts} 
+
+\begin{itemize}
+\item Different workload patterns?
+\item How to perform monitoring? (System is very distributed)
+\item Maybe new metrics to monitor (eg. distance from antenna, velocity, direction, etc.)
+\item Changes in the architecture of mobile applications
 \end{itemize}
 
 \section{Conclusion}

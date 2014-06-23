@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.10.7)  28 MAY 2014 16:20
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.10.7)  23 JUN 2014 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -871,7 +871,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  13155 strings out of 493485
  242316 string characters out of 3143526
- 314959 words of memory out of 3000000
+ 315959 words of memory out of 3000000
  16175 multiletter control sequences out of 15000+200000
  36949 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -882,7 +882,7 @@ dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (2 pages, 91628 bytes).
+Output written on "x-cloud simulation.pdf" (2 pages, 92298 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
