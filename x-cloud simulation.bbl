@@ -8,12 +8,26 @@ T~Blaji{\'c}, D~Noguli{\'c}, and M~Dru{\v{z}}ijani{\'c}.
 \newblock Latency improvements in 3g long term evolution.
 \newblock {\em Mipro CTI, svibanj}, 2006.
 
+\bibitem{choi2007analysis}
+Baek-Young Choi, Sue Moon, Zhi-Li Zhang, Konstantina Papagiannaki, and
+  Christophe Diot.
+\newblock Analysis of point-to-point packet delay in an operational network.
+\newblock {\em Computer networks}, 51(13):3812--3827, 2007.
+
 \bibitem{5959161}
 H.~Khazaei, J.~Misic, and V.B. Misic.
 \newblock Performance analysis of cloud computing centers using m/g/m/m+r
   queuing systems.
 \newblock {\em Parallel and Distributed Systems, IEEE Transactions on},
   23(5):936--943, May 2012.
+
+\bibitem{papagiannaki2003measurement}
+Konstantina Papagiannaki, Sue Moon, Chuck Fraleigh, Patrick Thiran, and
+  Christophe Diot.
+\newblock Measurement and analysis of single-hop delay on an ip backbone
+  network.
+\newblock {\em Selected Areas in Communications, IEEE Journal on},
+  21(6):908--921, 2003.
 
 \bibitem{Ramasubramanian:2009:TIL:2492101.1555357}
 Venugopalan Ramasubramanian, Dahlia Malkhi, Fabian Kuhn, Mahesh Balakrishnan,
