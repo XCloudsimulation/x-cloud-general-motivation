@@ -1,0 +1,34 @@
+\subsubsection{Data Centre}
+Cloud model : \cite{5959161}
+Web serve model : \cite{1191656}
+
+\subsubsection{Radio access network}
+Because the mobile access network is a service access qualifier, the mechanisms of the network is relatively irrelevant to the primary research topics. The network can appropriately be modelled with a series of delays. 
+
+It is a constituent objective of our research to determine relevant X-Cloud/NGN \footnote{Next Generation Network} symbiotic topologies. These topolgies will be feed into the simulation model and will conceivably encompass, resource placement and dimension, cell sizes, and radio resource provisioning \cite{kwan2010mobility,racz2007handover,salo2010practical}.
+
+Our basic research topics will require a homogeneous, equidistant, and equirange cell topology. Although it is reasonable to assume that future networks hosting an X-Cloud will be distributed. 
+
+\subsubsection{Base station}
+The base station can conceivably be modelled with a queue and a delay proportional to its propagation distance to its associated "C-RAN" node.
+
+\subsubsection{Core network}
+The essential property of the core network is bandwidth and delay. Both of which can be modelled with queues.
+
+\begin{itemize}
+\item Latency
+\begin{itemize}
+\item "Point-to-Point" core network delay model \cite{choi2007analysis}
+\item "One-hop" core network router queue delay model  \cite{papagiannaki2003measurement}
+\end{itemize}
+\end{itemize}
+
+\subsubsection{Mobility}
+A smooth random walk, unobstructed, bounded, edge-aware mobility model will provide a uniformly distributed dispersion of users across the simulation domain \cite{Bettstetter:2001:SBS:381591.381600}. The model is two-dimensional and provides pedestrian, bicycle, and auto mobile mobility modes. The model is uniform and does thus not take into account any socio-demographic variations, and local clusters. Nevertheless, exploring specific demographic and urban settings is beyond the scope of our basic research topics. Furthermore, in the absence of a socio-demographic and urban scenarios, an aggregate mobility mode will be deployed.
+
+\subsubsection{Service}
+There is a multitude of appropriate service models. 
+
+Web browsing behaviour : \cite{liu2010understanding}
+3-Tiered model : \cite{1521145}
+Cloud service usage patterns : \cite{zhao2009cloud}

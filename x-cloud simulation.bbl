@@ -1,12 +1,26 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{BT_IP}
 Monthly network summary, 05 2014.
+
+\bibitem{Bettstetter:2001:SBS:381591.381600}
+Christian Bettstetter.
+\newblock Smooth is better than sharp: A random mobility model for simulation
+  of wireless networks.
+\newblock In {\em Proceedings of the 4th ACM International Workshop on
+  Modeling, Analysis and Simulation of Wireless and Mobile Systems}, MSWIM '01,
+  pages 19--27, New York, NY, USA, 2001. ACM.
 
 \bibitem{blajic2006latency}
 T~Blaji{\'c}, D~Noguli{\'c}, and M~Dru{\v{z}}ijani{\'c}.
 \newblock Latency improvements in 3g long term evolution.
 \newblock {\em Mipro CTI, svibanj}, 2006.
+
+\bibitem{1191656}
+Jianhua Cao, M.~Andersson, C.~Nyberg, and M.~Kihl.
+\newblock Web server performance modeling using an m/g/1/k*ps queue.
+\newblock In {\em Telecommunications, 2003. ICT 2003. 10th International
+  Conference on}, volume~2, pages 1501--1506 vol.2, Feb 2003.
 
 \bibitem{choi2007analysis}
 Baek-Young Choi, Sue Moon, Zhi-Li Zhang, Konstantina Papagiannaki, and
@@ -21,6 +35,28 @@ H.~Khazaei, J.~Misic, and V.B. Misic.
 \newblock {\em Parallel and Distributed Systems, IEEE Transactions on},
   23(5):936--943, May 2012.
 
+\bibitem{kwan2010mobility}
+Raymond Kwan, Rob Arnott, Robert Paterson, Riccardo Trivisonno, and Mitsuhiro
+  Kubota.
+\newblock On mobility load balancing for lte systems.
+\newblock In {\em Vehicular Technology Conference Fall (VTC 2010-Fall), 2010
+  IEEE 72nd}, pages 1--5. IEEE, 2010.
+
+\bibitem{liu2010understanding}
+Chao Liu, Ryen~W White, and Susan Dumais.
+\newblock Understanding web browsing behaviors through weibull analysis of
+  dwell time.
+\newblock In {\em Proceedings of the 33rd international ACM SIGIR conference on
+  Research and development in information retrieval}, pages 379--386. ACM,
+  2010.
+
+\bibitem{1521145}
+Xue Liu, J.~Heo, and Lui Sha.
+\newblock Modeling 3-tiered web applications.
+\newblock In {\em Modeling, Analysis, and Simulation of Computer and
+  Telecommunication Systems, 2005. 13th IEEE International Symposium on}, pages
+  307--310, Sept 2005.
+
 \bibitem{papagiannaki2003measurement}
 Konstantina Papagiannaki, Sue Moon, Chuck Fraleigh, Patrick Thiran, and
   Christophe Diot.
@@ -29,10 +65,29 @@ Konstantina Papagiannaki, Sue Moon, Chuck Fraleigh, Patrick Thiran, and
 \newblock {\em Selected Areas in Communications, IEEE Journal on},
   21(6):908--921, 2003.
 
+\bibitem{racz2007handover}
+Andras Racz, Andras Temesvary, and Norbert Reider.
+\newblock Handover performance in 3gpp long term evolution (lte) systems.
+\newblock In {\em Mobile and Wireless Communications Summit, 2007. 16th IST},
+  pages 1--5. IEEE, 2007.
+
 \bibitem{Ramasubramanian:2009:TIL:2492101.1555357}
 Venugopalan Ramasubramanian, Dahlia Malkhi, Fabian Kuhn, Mahesh Balakrishnan,
   Archit Gupta, and Aditya Akella.
 \newblock On the treeness of internet latency and bandwidth.
 \newblock {\em SIGMETRICS Perform. Eval. Rev.}, 37(1):61--72, June 2009.
+
+\bibitem{salo2010practical}
+J~Salo, M~Nur-Alam, and K~Chang.
+\newblock Practical introduction to lte radio planning.
+\newblock {\em A white paper on basics of radio planning for 3GPP LTE in
+  interference limited and coverage limited scenarios, European Communications
+  Engineering (ECE) Ltd, Espoo, Finland}, 2010.
+
+\bibitem{zhao2009cloud}
+Gansen Zhao, Jiale Liu, Yong Tang, Wei Sun, Feng Zhang, Xiaoping Ye, and
+  Na~Tang.
+\newblock Cloud computing: A statistics aspect of users.
+\newblock In {\em Cloud Computing}, pages 347--358. Springer, 2009.
 
 \end{thebibliography}
