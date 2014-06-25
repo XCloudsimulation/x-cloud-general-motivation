@@ -3,6 +3,19 @@ The style file: plain.bst
 Database file #1: references.bib
 Warning--entry type for "BT_IP" isn't style-file defined
 --line 1591 of file references.bib
+Repeated entry---line 1757 of file references.bib
+ : @inproceedings{6123487
+ :                       ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "ericsson_dot"
 Warning--to sort, need author or key in BT_IP
-(There were 3 warnings)
+Warning--to sort, need author or key in rproject
+Warning--to sort, need author or key in pymatlab
+Warning--to sort, need author or key in ns3python
+Warning--to sort, need author or key in cloudsim
+Warning--to sort, need author or key in greencloud
+Warning--to sort, need author or key in icancloud
+Warning--to sort, need author or key in simgrid
+Warning--to sort, need author or key in coolsim
+Warning--to sort, need author or key in ns3
+(There was 1 error message)

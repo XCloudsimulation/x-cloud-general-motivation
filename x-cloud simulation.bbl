@@ -1,7 +1,52 @@
 \begin{thebibliography}{10}
 
+\bibitem{cloudsim}
+Cloudsim.
+\newblock Available online at \url{http://www.cloudbus.org/cloudsim/}.
+
+\bibitem{coolsim}
+Coolsim.
+\newblock Available online at \url{http://www.coolsimsoftware.com/}.
+
+\bibitem{greencloud}
+Greencloud.
+\newblock Available online at \url{https://greencloud.gforge.uni.lu/}.
+
+\bibitem{icancloud}
+icancloud.
+\newblock Available online at
+  \url{http://www.arcos.inf.uc3m.es/~icancloud/Home.html}.
+
+\bibitem{ns3}
+Ns-3.
+\newblock Available online at \url{http://www.nsnam.org/}.
+
+\bibitem{ns3python}
+Ns-3 python interaction.
+\newblock Available online at
+  \url{http://www.nsnam.org/docs/manual/html/python.html}.
+
+\bibitem{pymatlab}
+pymatlab.
+\newblock Available online at \url{https://pypi.python.org/pypi/pymatlab}.
+
+\bibitem{rproject}
+R project.
+\newblock Available online at \url{http://www.r-project.org/}.
+
+\bibitem{simgrid}
+Simgird.
+\newblock Available online at \url{http://simgrid.gforge.inria.fr/}.
+
 \bibitem{BT_IP}
 Monthly network summary, 05 2014.
+
+\bibitem{barford1998generating}
+Paul Barford and Mark Crovella.
+\newblock Generating representative web workloads for network and server
+  performance evaluation.
+\newblock {\em ACM SIGMETRICS Performance Evaluation Review}, 26(1):151--160,
+  1998.
 
 \bibitem{Bettstetter:2001:SBS:381591.381600}
 Christian Bettstetter.
@@ -16,17 +61,45 @@ T~Blaji{\'c}, D~Noguli{\'c}, and M~Dru{\v{z}}ijani{\'c}.
 \newblock Latency improvements in 3g long term evolution.
 \newblock {\em Mipro CTI, svibanj}, 2006.
 
+\bibitem{bobelin2012scalable}
+Laurent Bobelin, Arnaud Legrand, David A~Gonz{\'a}lez M{\'a}rquez, Pierre
+  Navarro, Martin Quinson, Fr{\'e}d{\'e}ric Suter, and Christophe Thi{\'e}ry.
+\newblock Scalable multi-purpose network representation for large scale
+  distributed system simulation.
+\newblock In {\em Proceedings of the 2012 12th IEEE/ACM International Symposium
+  on Cluster, Cloud and Grid Computing (ccgrid 2012)}, pages 220--227. IEEE
+  Computer Society, 2012.
+
 \bibitem{1191656}
 Jianhua Cao, M.~Andersson, C.~Nyberg, and M.~Kihl.
 \newblock Web server performance modeling using an m/g/1/k*ps queue.
 \newblock In {\em Telecommunications, 2003. ICT 2003. 10th International
   Conference on}, volume~2, pages 1501--1506 vol.2, Feb 2003.
 
+\bibitem{4488918}
+H.~Casanova, A.~Legrand, and M.~Quinson.
+\newblock Simgrid: A generic framework for large-scale distributed experiments.
+\newblock In {\em Computer Modeling and Simulation, 2008. UKSIM 2008. Tenth
+  International Conference on}, pages 126--131, April 2008.
+
 \bibitem{choi2007analysis}
 Baek-Young Choi, Sue Moon, Zhi-Li Zhang, Konstantina Papagiannaki, and
   Christophe Diot.
 \newblock Analysis of point-to-point packet delay in an operational network.
 \newblock {\em Computer networks}, 51(13):3812--3827, 2007.
+
+\bibitem{6123487}
+S.K. Garg and R.~Buyya.
+\newblock Networkcloudsim: Modelling parallel applications in cloud
+  simulations.
+\newblock In {\em Utility and Cloud Computing (UCC), 2011 Fourth IEEE
+  International Conference on}, pages 105--113, Dec 2011.
+
+\bibitem{Gill:2007:YTC:1298306.1298310}
+Phillipa Gill, Martin Arlitt, Zongpeng Li, and Anirban Mahanti.
+\newblock Youtube traffic characterization: A view from the edge.
+\newblock In {\em Proceedings of the 7th ACM SIGCOMM Conference on Internet
+  Measurement}, IMC '07, pages 15--28, New York, NY, USA, 2007. ACM.
 
 \bibitem{5959161}
 H.~Khazaei, J.~Misic, and V.B. Misic.
@@ -41,6 +114,17 @@ Raymond Kwan, Rob Arnott, Robert Paterson, Riccardo Trivisonno, and Mitsuhiro
 \newblock On mobility load balancing for lte systems.
 \newblock In {\em Vehicular Technology Conference Fall (VTC 2010-Fall), 2010
   IEEE 72nd}, pages 1--5. IEEE, 2010.
+
+\bibitem{lee2007new}
+Jeongeun~Julie Lee and Maruti Gupta.
+\newblock A new traffic model for current user web browsing behavior.
+\newblock {\em Intel Corporation}, 2007.
+
+\bibitem{5289159}
+Seung-Hwan Lim, B.~Sharma, Gunwoo Nam, Eun~Kyoung Kim, and C.R. Das.
+\newblock Mdcsim: A multi-tier data center simulation, platform.
+\newblock In {\em Cluster Computing and Workshops, 2009. CLUSTER '09. IEEE
+  International Conference on}, pages 1--9, Aug 2009.
 
 \bibitem{liu2010understanding}
 Chao Liu, Ryen~W White, and Susan Dumais.
@@ -84,10 +168,23 @@ J~Salo, M~Nur-Alam, and K~Chang.
   interference limited and coverage limited scenarios, European Communications
   Engineering (ECE) Ltd, Espoo, Finland}, 2010.
 
+\bibitem{wickremasinghe2010cloudanalyst}
+Bhathiya Wickremasinghe, Rodrigo~N Calheiros, and Rajkumar Buyya.
+\newblock Cloudanalyst: A cloudsim-based visual modeller for analysing cloud
+  computing environments and applications.
+\newblock In {\em Advanced Information Networking and Applications (AINA), 2010
+  24th IEEE International Conference on}, pages 446--452. IEEE, 2010.
+
 \bibitem{zhao2009cloud}
 Gansen Zhao, Jiale Liu, Yong Tang, Wei Sun, Feng Zhang, Xiaoping Ye, and
   Na~Tang.
 \newblock Cloud computing: A statistics aspect of users.
 \newblock In {\em Cloud Computing}, pages 347--358. Springer, 2009.
+
+\bibitem{zhao2012modeling}
+Wei Zhao, Yong Peng, Feng Xie, and Zhonghua Dai.
+\newblock Modeling and simulation of cloud computing: A review.
+\newblock In {\em Cloud Computing Congress (APCloudCC), 2012 IEEE Asia
+  Pacific}, pages 20--24. IEEE, 2012.
 
 \end{thebibliography}

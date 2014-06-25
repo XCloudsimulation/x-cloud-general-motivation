@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  24 JUN 2014 13:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  25 JUN 2014 14:17
 entering extended mode
 **x-cloud*simulation.tex
 ("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.tex"
@@ -848,19 +848,23 @@ Package caption Info: float package is loaded.
 \c@lotdepth=\count146
 \sf@top=\skip47
 \sf@bottom=\skip48
-) ("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+) (C:\Users\eit-wit\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Users\eit-wit\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -884,7 +888,7 @@ Package caption Info: End \AtBeginDocument code.
 File: diagram_overview.pdf Graphic file (type pdf)
 
 <use diagram_overview.pdf>
-Package pdftex.def Info: diagram_overview.pdf used on input line 53.
+Package pdftex.def Info: diagram_overview.pdf used on input line 54.
 (pdftex.def)             Requested size: 253.04987pt x 227.29054pt.
 
 (C:\Desktop\GitHub\x-cloud-general-motivation\case_bandwidth.tex
@@ -928,7 +932,13 @@ Underfull \hbox (badness 5189) in paragraph at lines 27--28
 
 ) (C:\Desktop\GitHub\x-cloud-general-motivation\simulation_framework.tex)
 (C:\Desktop\GitHub\x-cloud-general-motivation\papers.tex [2])
-("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.bbl")
+("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.bbl"
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+[]\OT1/ptm/m/n/8 icancloud.  Avail-able on-line at $http : / / www . arcos . in
+f . uc3m . es /$
+ []
+
+[3])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -940,28 +950,31 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] ("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.aux")
+[4
+
+] ("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.aux")
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 14866 strings out of 493921
- 288939 string characters out of 3147276
- 336182 words of memory out of 3000000
- 17821 multiletter control sequences out of 15000+200000
+ 14957 strings out of 493921
+ 290113 string characters out of 3147276
+ 341182 words of memory out of 3000000
+ 17908 multiletter control sequences out of 15000+200000
  42712 words of font info for 87 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,8n,54p,1018b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,8n,54p,1018b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
-utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (3 pages, 104814 bytes).
+/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "x-cloud simulation.pdf" (4 pages, 117050 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
