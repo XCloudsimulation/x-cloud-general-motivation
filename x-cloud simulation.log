@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  25 JUN 2014 14:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  25 JUN 2014 16:34
 entering extended mode
 **x-cloud*simulation.tex
 ("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.tex"
@@ -884,13 +884,15 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 
+(C:\Desktop\GitHub\x-cloud-general-motivation\introduction.tex)
 <diagram_overview.pdf, id=4, 502.87875pt x 451.6875pt>
 File: diagram_overview.pdf Graphic file (type pdf)
 
 <use diagram_overview.pdf>
-Package pdftex.def Info: diagram_overview.pdf used on input line 54.
+Package pdftex.def Info: diagram_overview.pdf used on input line 55.
 (pdftex.def)             Requested size: 253.04987pt x 227.29054pt.
 
+(C:\Desktop\GitHub\x-cloud-general-motivation\motivation.tex)
 (C:\Desktop\GitHub\x-cloud-general-motivation\case_bandwidth.tex
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
@@ -902,8 +904,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-(C:\Desktop\GitHub\x-cloud-general-motivation\case_latency.tex
-<omni_motivation.pdf, id=5, 1699.34875pt x 607.26875pt>
+(C:\Desktop\GitHub\x-cloud-general-motivation\case_latency.tex [1{C:/Users/eit-
+wit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <C:/Desktop/GitHub/x-cloud-general-motivation/diagram_overview.pdf>]
+<omni_motivation.pdf, id=20, 1699.34875pt x 607.26875pt>
 File: omni_motivation.pdf Graphic file (type pdf)
 
 <use omni_motivation.pdf>
@@ -916,29 +922,25 @@ Overfull \hbox (13.87294pt too wide) in paragraph at lines 5--6
 
 ) (C:\Desktop\GitHub\x-cloud-general-motivation\case_infrastructure.tex
 
-LaTeX Warning: Citation `ericsson_dot' on page 1 undefined on input line 1.
+LaTeX Warning: Citation `ericsson_dot' on page 2 undefined on input line 1.
 
-[1{C:/Users/eit-wit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
- <C:/Desktop/GitHub/x-cloud-general-motivation/diagram_overview.pdf> <C:/Deskto
-p/GitHub/x-cloud-general-motivation/omni_motivation.pdf>])
-(C:\Desktop\GitHub\x-cloud-general-motivation\research_topics.tex)
+) (C:\Desktop\GitHub\x-cloud-general-motivation\research_topics.tex)
 (C:\Desktop\GitHub\x-cloud-general-motivation\constituent_models.tex
 Underfull \hbox (badness 5189) in paragraph at lines 27--28
  []\OT1/ptm/m/it/10 Mobility: [][] \OT1/ptm/m/n/10 A smooth ran-dom walk, un-ob
 -structed,
  []
 
-) (C:\Desktop\GitHub\x-cloud-general-motivation\simulation_framework.tex)
-(C:\Desktop\GitHub\x-cloud-general-motivation\papers.tex [2])
-("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.bbl"
+[2 <C:/Desktop/GitHub/x-cloud-general-motivation/omni_motivation.pdf>])
+(C:\Desktop\GitHub\x-cloud-general-motivation\simulation_framework.tex)
+(C:\Desktop\GitHub\x-cloud-general-motivation\papers.tex)
+("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.bbl" [3]
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 []\OT1/ptm/m/n/8 icancloud.  Avail-able on-line at $http : / / www . arcos . in
 f . uc3m . es /$
  []
 
-[3])
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -950,17 +952,18 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
-
-] ("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.aux")
+[4] ("C:\Desktop\GitHub\x-cloud-general-motivation\x-cloud simulation.aux")
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 14957 strings out of 493921
- 290113 string characters out of 3147276
- 341182 words of memory out of 3000000
+ 14963 strings out of 493921
+ 290375 string characters out of 3147276
+ 339182 words of memory out of 3000000
  17908 multiletter control sequences out of 15000+200000
  42712 words of font info for 87 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -972,7 +975,7 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2
 w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (4 pages, 117050 bytes).
+Output written on "x-cloud simulation.pdf" (4 pages, 118967 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
