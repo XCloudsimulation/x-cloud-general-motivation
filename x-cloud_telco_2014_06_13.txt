@@ -1,0 +1,32 @@
+Meeting notes from telco 2014-06-13
+
+1) define the problem in more details
+	- identify questions that we would like to answer
+	- define hypothesis
+	- motivations (eg. computation offloading)
+
+2) compare existing simulation frameworks and describe their limitations
+	- what we would like to model
+		* latency
+		* bandwidth
+		* energy (computation offloading)
+		* data centres
+		* network
+	- why we cannot model that with existing simulators
+
+3) find event-driven simulation framework
+	- suitable to plug-in other simulators (Modelica, Matlab, NS3, CloudSim, GreenCloud, ICanCloud)
+	- plug-in algorithms: elasticity, admission control, etc.
+	- possible candidates: SimJava, PySim
+
+4) build modular event-driven simulator
+	- to prove concepts
+		* to verify test hypothesis (if x-cloud gives any benefit)
+		* to test algorithms and applications
+	- keep simulation general and abstract
+		* no focus on any specific model (LTE etc.)
+		* no hand overs, etc.
+	- parts:
+		* data centers
+		* network
+		* users mobility
