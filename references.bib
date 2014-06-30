@@ -1858,3 +1858,50 @@ doi={10.1109/UKSIM.2008.28},}
 	title = {R project},
 	note = {Available online at \url{http://www.r-project.org/}}
 }
+
+@INPROCEEDINGS{6008692, 
+author={Kikuchi, S. and Matsumoto, Y.}, 
+booktitle={Cloud Computing (CLOUD), 2011 IEEE International Conference on}, 
+title={Performance Modeling of Concurrent Live Migration Operations in Cloud Computing Systems Using PRISM Probabilistic Model Checker}, 
+year={2011}, 
+month={July}, 
+pages={49-56}, 
+abstract={Server virtualization technologies and their live migration function contribute to the utilization of the computing resources in cloud datacenters. However, many management operations for virtual machines (VMs) including live migrations can be evoked by many cloud users at anytime. The outburst of executions of live migration operations can deteriorate migration performance and make it difficult to provide required resources to users in a timely manner. Therefore, understanding the behaviors and the performance of simultaneous live migrations is very important to provide efficient and reliable cloud computing services. In this paper, we construct a performance model of concurrent live migrations in virtualized datacenters. We first collect performance data from an experimental virtualized system in which we execute simultaneous live migrations. Based on the data, we next construct a performance model representing the performance characteristics of live migration using PRISM, a probabilistic model checker. We then demonstrate that we can easily verify the properties described in PRISM language regarding live migration performance using this model.}, 
+keywords={cloud computing;computer centres;formal verification;virtual machines;virtualisation;PRISM probabilistic model checker;cloud computing system;cloud datacenter;concurrent live migration operation;live migration characteristics;server virtualization technology;virtual machines;Cloud computing;Computational modeling;Logic gates;Probabilistic logic;Queueing analysis;Receivers;Servers;cloud computing;datacenter;formal method;livemigration;model checking;operation performance;system management operations;virtual machine}, 
+doi={10.1109/CLOUD.2011.48}, 
+ISSN={2159-6182},}
+
+@article{liu2013performance,
+  title={Performance and energy modeling for live migration of virtual machines},
+  author={Liu, Haikun and Jin, Hai and Xu, Cheng-Zhong and Liao, Xiaofei},
+  journal={Cluster computing},
+  volume={16},
+  number={2},
+  pages={249--264},
+  year={2013},
+  publisher={Springer}
+}
+
+@INPROCEEDINGS{6008747, 
+author={Yangyang Wu and Ming Zhao}, 
+booktitle={Cloud Computing (CLOUD), 2011 IEEE International Conference on}, 
+title={Performance Modeling of Virtual Machine Live Migration}, 
+year={2011}, 
+month={July}, 
+pages={492-499}, 
+abstract={System virtualization is becoming pervasive and it is enabling important new computing diagrams such as cloud computing. Live virtual machine (VM) migration is a unique capability of system virtualization which allows applications to be transparently moved across physical machines with a consistent state captured by their VMs. Although live VM migration is generally fast, it is a resource-intensive operation and can impact the application performance and resource usage of the migrating VM as well as other concurrent VMs. However, existing studies on live migration performance are often based on the assumption that there are sufficient resources on the source and destination hosts, which is often not the case for highly consolidated systems. As the scale of virtualized systems such as clouds continue to grow, the use of live migration becomes increasingly more important for managing performance and reliability in such systems. Therefore, it is key to understand the performance of live VM migration under different levels of resource availability. This paper addresses this need by creating performance models for live migration which can be used to predict a VM's migration time given its application's behavior and the resources available to the migration. A series of experiments were conducted on Xen to profile the time for migrating a DomU VM running different resource-intensive applications while Dom0 is allocated different CPU shares for processing the migration. Regression methods are then used to create the performance model based on the profiling data. The results show that the VM's migration time is indeed substantially impacted by Dom0's CPU allocation whereas the performance model can accurately capture this relationship with the coefficient of determination generally higher than 90%.}, 
+keywords={cloud computing;regression analysis;virtual machines;virtualisation;DomU VM;Xen;cloud computing;performance modeling;profiling data;regression methods;resource availability;system virtualization;virtual machine live migration;Cloud computing;Conferences}, 
+doi={10.1109/CLOUD.2011.109}, 
+ISSN={2159-6182},}
+
+@INPROCEEDINGS{5581607, 
+author={Akoush, S. and Sohan, R. and Rice, A. and Moore, A.W. and Hopper, A.}, 
+booktitle={Modeling, Analysis Simulation of Computer and Telecommunication Systems (MASCOTS), 2010 IEEE International Symposium on}, 
+title={Predicting the Performance of Virtual Machine Migration}, 
+year={2010}, 
+month={Aug}, 
+pages={37-46}, 
+abstract={With the ability to move virtual machines between physical hosts, live migration is a core feature of virtualisation. However for migration to be useful, deployable feature on a large (datacentre) scale, we need to predict migration times with accuracy. In this paper, we characterise the parameters affecting live migration with particular emphasis on the Xen virtualisation platform. We discuss the relationships between the important parameters that affect migration and highlight how migration performance can vary considerably depending on the workload. We further provide 2 simulation models that are able to predict migration times to within 90% accuracy for both synthetic and real-world benchmarks.}, 
+keywords={operating systems (computers);virtual machines;Xen virtualisation platform;live migration;virtual machine migration;Availability;Equations;Mathematical model;Prediction algorithms;Predictive models;Random access memory;Upper bound}, 
+doi={10.1109/MASCOTS.2010.13}, 
+ISSN={1526-7539},}
