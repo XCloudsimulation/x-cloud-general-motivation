@@ -6,7 +6,7 @@ Agenda:
 	- Remaining: Complete all research areas, then mapp to appropriate papers.
 
 - Conference
-	- Cloud Workshop in London, 8-11 December 	- Deadline: 24th of July
+	- Cloud Workshop in London, 8-11 December 	- Deadline: 25th of July
 	- CloudCom in Singapore, 15-18 December 	- Deadline: 31st of July
 	- BDCS 2015 in Singapore, 26–27 January 	- Deadline: 29th of August
 
