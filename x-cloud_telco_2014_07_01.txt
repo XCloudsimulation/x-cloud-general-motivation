@@ -1,0 +1,15 @@
+Meeting notes from telco 2014-07-01
+
+Agenda:
+- Completing the manifesto document
+	- Should be clear that this is basic research to identify properties of the x-cloud. 
+	- Remaining: Complete all research areas, then mapp to appropriate papers.
+
+- Conference
+	- Cloud Workshop in London, 8-11 December 	- Deadline: 24th of July
+	- CloudCom in Singapore, 15-18 December 	- Deadline: 31st of July
+	- BDCS 2015 in Singapore, 26–27 January 	- Deadline: 29th of August
+
+- Proposed first paper
+	- Service delay in two dimensional heterogenous mobile network with a realistic VM migration model (in terms of imposed delay)
+
