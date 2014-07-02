@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  30 JUN 2014 10:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  2 JUL 2014 12:49
 entering extended mode
 **x-cloud*simulation.tex
 
@@ -907,19 +907,9 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: Citation `Ramasubramanian:2009:TIL:2492101.1555357' on page 1 un
-defined on input line 2.
-
-)
+))
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\case_latency.
-tex
-
-LaTeX Warning: Citation `blajic2006latency' on page 1 undefined on input line 1
-.
-
-[1{C:/Users/eit-wit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+tex [1{C:/Users/eit-wit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
  <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-motivation/diagram_over
@@ -934,20 +924,6 @@ Overfull \hbox (13.87294pt too wide) in paragraph at lines 5--6
  [][] 
  []
 
-
-LaTeX Warning: Citation `BT_IP' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation `blajic2006latency' on page 2 undefined on input line 6
-.
-
-
-LaTeX Warning: Citation `BT_IP' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation `blajic2006latency' on page 2 undefined on input line 6
-.
-
 )
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\case_infrastr
 ucture.tex
@@ -960,127 +936,40 @@ LaTeX Warning: Citation `ericsson_dot' on page 2 undefined on input line 1.
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\desiard_model
 .tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
-cs.tex <placement_diagram.jpg, id=21, 469.0323pt x 242.8272pt>
+cs/dc_size.tex)
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
+cs/internet_of_things.tex)
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
+cs/mobility.tex)
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
+cs/nbr_devices.tex [2 <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-mo
+tivation/omni_motivation.pdf>])
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
+cs/placement.tex <placement_diagram.jpg, id=31, 469.0323pt x 242.8272pt>
 File: placement_diagram.jpg Graphic file (type jpg)
 
 <use placement_diagram.jpg>
 Package pdftex.def Info: placement_diagram.jpg used on input line 11.
 (pdftex.def)             Requested size: 253.04987pt x 131.00986pt.
- [2 <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-motivation/omni_moti
-vation.pdf>])
+)
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
+cs/topology.tex)
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
+cs/traffic.tex)
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
+cs/vm_placement.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\constituent_m
-odels.tex
-
-LaTeX Warning: Citation `5959161' on page 3 undefined on input line 2.
-
-
-LaTeX Warning: Citation `1191656' on page 3 undefined on input line 3.
-
-
-LaTeX Warning: Citation `kwan2010mobility' on page 3 undefined on input line 8.
-
-
-
-LaTeX Warning: Citation `racz2007handover' on page 3 undefined on input line 8.
-
-
-
-LaTeX Warning: Citation `salo2010practical' on page 3 undefined on input line 8
-.
-
-[3 <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-motivation/placement_
-diagram.jpg>]
-
-LaTeX Warning: Citation `choi2007analysis' on page 4 undefined on input line 21
-.
-
-
-LaTeX Warning: Citation `papagiannaki2003measurement' on page 4 undefined on in
-put line 22.
-
-
-LaTeX Warning: Citation `Bettstetter:2001:SBS:381591.381600' on page 4 undefine
-d on input line 27.
-
-
+odels.tex [3 <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-motivation/
+placement_diagram.jpg>]
 Underfull \hbox (badness 5189) in paragraph at lines 27--28
  []\OT1/ptm/m/it/10 Mobility: [][] \OT1/ptm/m/n/10 A smooth ran-dom walk, un-ob
 -structed,
  []
 
-
-LaTeX Warning: Citation `barford1998generating' on page 4 undefined on input li
-ne 33.
-
-
-LaTeX Warning: Citation `lee2007new' on page 4 undefined on input line 34.
-
-
-LaTeX Warning: Citation `Gill:2007:YTC:1298306.1298310' on page 4 undefined on 
-input line 35.
-
-
-LaTeX Warning: Citation `1521145' on page 4 undefined on input line 36.
-
-
-LaTeX Warning: Citation `liu2010understanding' on page 4 undefined on input lin
-e 37.
-
-
-LaTeX Warning: Citation `zhao2009cloud' on page 4 undefined on input line 38.
-
 )
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\simulation_fr
-amework.tex
-
-LaTeX Warning: Citation `zhao2012modeling' on page 4 undefined on input line 1.
-
-
-
-LaTeX Warning: Citation `rproject' on page 4 undefined on input line 7.
-
-
-LaTeX Warning: Citation `pymatlab' on page 4 undefined on input line 7.
-
-
-LaTeX Warning: Citation `ns3python' on page 4 undefined on input line 7.
-
-
-LaTeX Warning: Citation `cloudsim' on page 4 undefined on input line 9.
-
-
-LaTeX Warning: Citation `6123487' on page 4 undefined on input line 13.
-
-
-LaTeX Warning: Citation `wickremasinghe2010cloudanalyst' on page 4 undefined on
- input line 14.
-
-
-LaTeX Warning: Citation `greencloud' on page 4 undefined on input line 18.
-
-
-LaTeX Warning: Citation `icancloud' on page 4 undefined on input line 21.
-
-
-LaTeX Warning: Citation `5289159' on page 4 undefined on input line 24.
-
-
-LaTeX Warning: Citation `simgrid' on page 4 undefined on input line 27.
-
-
-LaTeX Warning: Citation `4488918' on page 4 undefined on input line 30.
-
-
-LaTeX Warning: Citation `bobelin2012scalable' on page 4 undefined on input line
- 31.
-
-
-LaTeX Warning: Citation `coolsim' on page 4 undefined on input line 35.
-
-
-LaTeX Warning: Citation `ns3' on page 4 undefined on input line 38.
-
-) (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\papers.tex
+amework.tex)
+(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\papers.tex
 [4])
 ("\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\x-cloud simu
 lation.bbl"
@@ -1089,7 +978,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
 f . uc3m . es /$
  []
 
-)
+[5])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -1101,20 +990,19 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5]
+[6
+
+]
 ("\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\x-cloud simu
 lation.aux")
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 14976 strings out of 493921
- 291456 string characters out of 3147276
- 341182 words of memory out of 3000000
+ 14999 strings out of 493921
+ 292970 string characters out of 3147276
+ 342182 words of memory out of 3000000
  17913 multiletter control sequences out of 15000+200000
  42712 words of font info for 87 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1126,9 +1014,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2
 w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (5 pages, 200204 bytes).
+Output written on "x-cloud simulation.pdf" (6 pages, 200491 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
