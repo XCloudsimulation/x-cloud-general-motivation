@@ -1,48 +1,6 @@
-
-\subsection{Comparison of existing simulators from the perspective of  \xcloud}
-A survey of existing simulators with comparison of their capabilities (and limitations) to simulate \xcloud.
-
-Simulators of:
-\begin{itemize}
-\item Data centers,
-\item BTS,
-\item Network (BTS --- DC),
-\item Mobile network,
-\item Mobile devices,
-\item Users (mobility).
-\end{itemize}
-
-What is different in operation/simulation of \xcloud?
-
-\subsection{Limitations of current infrastructure \& the setup/structure of \xcloud}
-\subsubsection{Limitations of current infrastructure}
-Simulate the current infrastructure (mobile network + remote/big data centers) and show the limits of it.
-\begin{itemize}
-\item What will happen when the number of mobile devices increases by order(s) of magnitude? The influence on a network connection between a base station and a big/remote data center.
-\item How many mobile devices can be handeled by the current infrastructure (depending on a latency limits)?
-\end{itemize}
-\subsubsection{The setup/structure of \xcloud}
-The \xcloud consists of antennas, small (edge) data centers and big (remote) data centers.
-Small data centers are located close to the antennas and can host both virtualized base station software and VMs with applications.
-Big data centrs are located far away from users.
-Small data centers have smaller amount of resources than big ones (maybe also performance is lower) and running applications there is more expensive.
-However, latency is is much lower than in a case of big (remote) data centers.
-
-Questions about the setup/structure of \xcloud:
-\begin{itemize}
-\item how many antennas should be associated with one small (local) data center? (probably this will be limited by the latency between an antenna and a small data center)
-\item how big should small (local) data centers be (\#CPUs etc)?
-\end{itemize}
-
-\subsection{\xcloud model}
-
-\subsection{Throughput and bandwidth limitations in the \xcloud}
-
-\subsection{Virtual Machine placement and migration in \xcloud}
-
-Regarding placement of Virtual Machines (VMs) in the edge data centers:
-\begin{itemize}
-\item Should a VM that serves all users (even these outside of the range of the directly connected antennas) be placed in an edge data cener or should it be rather an additional instance that serves users that are in the close proximity (duplicating a VM in a big data center)?
-\item When a VM should be placed/duplicated in a small data center?
-\item While users are moving from one antenna to another when VM should be migrated from one edge data center to another one?
-\end{itemize}
+\input{proposed_papers/simulator_survey.tex}
+\input{proposed_papers/bottlenecks.tex}
+\input{proposed_papers/topology.tex}
+\input{proposed_papers/vm_placement.tex}
+\input{proposed_papers/model.tex}
+\input{proposed_papers/performance_mobility.tex}

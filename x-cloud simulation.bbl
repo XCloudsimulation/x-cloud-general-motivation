@@ -149,6 +149,12 @@ Konstantina Papagiannaki, Sue Moon, Chuck Fraleigh, Patrick Thiran, and
 \newblock {\em Selected Areas in Communications, IEEE Journal on},
   21(6):908--921, 2003.
 
+\bibitem{5634134}
+G.~Piro, L.A. Grieco, G.~Boggia, F.~Capozzi, and P.~Camarda.
+\newblock Simulating lte cellular systems: An open-source framework.
+\newblock {\em Vehicular Technology, IEEE Transactions on}, 60(2):498--513, Feb
+  2011.
+
 \bibitem{racz2007handover}
 Andras Racz, Andras Temesvary, and Norbert Reider.
 \newblock Handover performance in 3gpp long term evolution (lte) systems.
