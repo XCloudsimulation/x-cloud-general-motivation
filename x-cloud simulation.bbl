@@ -41,6 +41,19 @@ Simgird.
 \bibitem{BT_IP}
 Monthly network summary, 05 2014.
 
+\bibitem{agarwal2010volley}
+Sharad Agarwal, John Dunagan, Navendu Jain, Stefan Saroiu, Alec Wolman, and
+  Harbinder Bhogan.
+\newblock Volley: Automated data placement for geo-distributed cloud services.
+\newblock In {\em NSDI}, pages 17--32, 2010.
+
+\bibitem{5581607}
+S.~Akoush, R.~Sohan, A.~Rice, A.W. Moore, and A.~Hopper.
+\newblock Predicting the performance of virtual machine migration.
+\newblock In {\em Modeling, Analysis Simulation of Computer and
+  Telecommunication Systems (MASCOTS), 2010 IEEE International Symposium on},
+  pages 37--46, Aug 2010.
+
 \bibitem{barford1998generating}
 Paul Barford and Mark Crovella.
 \newblock Generating representative web workloads for network and server
@@ -108,6 +121,13 @@ H.~Khazaei, J.~Misic, and V.B. Misic.
 \newblock {\em Parallel and Distributed Systems, IEEE Transactions on},
   23(5):936--943, May 2012.
 
+\bibitem{6008692}
+S.~Kikuchi and Y.~Matsumoto.
+\newblock Performance modeling of concurrent live migration operations in cloud
+  computing systems using prism probabilistic model checker.
+\newblock In {\em Cloud Computing (CLOUD), 2011 IEEE International Conference
+  on}, pages 49--56, July 2011.
+
 \bibitem{kwan2010mobility}
 Raymond Kwan, Rob Arnott, Robert Paterson, Riccardo Trivisonno, and Mitsuhiro
   Kubota.
@@ -140,6 +160,11 @@ Xue Liu, J.~Heo, and Lui Sha.
 \newblock In {\em Modeling, Analysis, and Simulation of Computer and
   Telecommunication Systems, 2005. 13th IEEE International Symposium on}, pages
   307--310, Sept 2005.
+
+\bibitem{liu2001traffic}
+Zhen Liu, Nicolas Niclausse, and C{\'e}sar Jalpa-Villanueva.
+\newblock Traffic model and performance evaluation of web servers.
+\newblock {\em Performance Evaluation}, 46(2):77--100, 2001.
 
 \bibitem{papagiannaki2003measurement}
 Konstantina Papagiannaki, Sue Moon, Chuck Fraleigh, Patrick Thiran, and
@@ -174,12 +199,24 @@ J~Salo, M~Nur-Alam, and K~Chang.
   interference limited and coverage limited scenarios, European Communications
   Engineering (ECE) Ltd, Espoo, Finland}, 2010.
 
+\bibitem{voorsluys2009cost}
+William Voorsluys, James Broberg, Srikumar Venugopal, and Rajkumar Buyya.
+\newblock Cost of virtual machine live migration in clouds: A performance
+  evaluation.
+\newblock In {\em Cloud Computing}, pages 254--265. Springer, 2009.
+
 \bibitem{wickremasinghe2010cloudanalyst}
 Bhathiya Wickremasinghe, Rodrigo~N Calheiros, and Rajkumar Buyya.
 \newblock Cloudanalyst: A cloudsim-based visual modeller for analysing cloud
   computing environments and applications.
 \newblock In {\em Advanced Information Networking and Applications (AINA), 2010
   24th IEEE International Conference on}, pages 446--452. IEEE, 2010.
+
+\bibitem{6008747}
+Yangyang Wu and Ming Zhao.
+\newblock Performance modeling of virtual machine live migration.
+\newblock In {\em Cloud Computing (CLOUD), 2011 IEEE International Conference
+  on}, pages 492--499, July 2011.
 
 \bibitem{zhao2009cloud}
 Gansen Zhao, Jiale Liu, Yong Tang, Wei Sun, Feng Zhang, Xiaoping Ye, and

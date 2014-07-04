@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  3 JUL 2014 13:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.25)  4 JUL 2014 13:47
 entering extended mode
 **x-cloud*simulation.tex
 
@@ -892,7 +892,7 @@ tex) <diagram_overview.pdf, id=4, 502.87875pt x 451.6875pt>
 File: diagram_overview.pdf Graphic file (type pdf)
 
 <use diagram_overview.pdf>
-Package pdftex.def Info: diagram_overview.pdf used on input line 54.
+Package pdftex.def Info: diagram_overview.pdf used on input line 53.
 (pdftex.def)             Requested size: 253.04987pt x 227.29054pt.
 
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\motivation.te
@@ -938,8 +938,6 @@ LaTeX Warning: Citation `ericsson_dot' on page 2 undefined on input line 1.
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
 cs/dc_size.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
-cs/internet_of_things.tex)
-(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
 cs/mobility.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
 cs/nbr_devices.tex [2 <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-mo
@@ -955,13 +953,11 @@ Package pdftex.def Info: placement_diagram.jpg used on input line 11.
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
 cs/topology.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
-cs/traffic.tex)
-(\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\research_topi
 cs/vm_placement.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\constituent_m
 odels.tex [3 <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-motivation/
 placement_diagram.jpg>]
-Underfull \hbox (badness 5189) in paragraph at lines 29--30
+Underfull \hbox (badness 5189) in paragraph at lines 30--31
  []\OT1/ptm/m/it/10 Mobility: [][] \OT1/ptm/m/n/10 A smooth ran-dom walk, un-ob
 -structed,
  []
@@ -971,38 +967,39 @@ Underfull \hbox (badness 5189) in paragraph at lines 29--30
 amework.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\papers.tex
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\proposed_pape
-rs/simulator_survey.tex)
+rs/simulator_survey.tex [4])
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\proposed_pape
-rs/bottlenecks.tex)
+rs/bottlenecks.tex <congestion_delay.jpg, id=38, 423.5022pt x 187.54065pt>
+File: congestion_delay.jpg Graphic file (type jpg)
+
+<use congestion_delay.jpg>
+Package pdftex.def Info: congestion_delay.jpg used on input line 5.
+(pdftex.def)             Requested size: 253.04987pt x 112.05879pt.
+)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\proposed_pape
-rs/topology.tex [4])
+rs/topology.tex
+
+LaTeX Warning: Reference `paper:topology' on page 5 undefined on input line 3.
+
+)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\proposed_pape
 rs/vm_placement.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\proposed_pape
 rs/model.tex)
 (\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\proposed_pape
 rs/performance_mobility.tex
+<performance_delay.jpg, id=39, 461.0826pt x 374.71996pt>
+File: performance_delay.jpg Graphic file (type jpg)
 
-LaTeX Warning: Citation `liu2001traffic' on page 5 undefined on input line 26.
+<use performance_delay.jpg>
+Package pdftex.def Info: performance_delay.jpg used on input line 26.
+(pdftex.def)             Requested size: 253.04987pt x 205.65062pt.
+ [5 <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-motivation/congestio
+n_delay.jpg> <//osiris/users/eit-wit/Desktop/GitHub/x-cloud-general-motivation/
+performance_delay.jpg>]
 
-
-LaTeX Warning: Citation `bettstetter2001smooth' on page 5 undefined on input li
-ne 29.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
+LaTeX Warning: Citation `bettstetter2001smooth' on page 6 undefined on input li
+ne 40.
 
 ))
 ("\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\x-cloud simu
@@ -1012,7 +1009,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
 f . uc3m . es /$
  []
 
-[5])
+[6])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -1024,7 +1021,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6
+[7
 
 ]
 ("\\osiris\users\eit-wit\Desktop\GitHub\x-cloud-general-motivation\x-cloud simu
@@ -1032,12 +1029,15 @@ lation.aux")
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 15033 strings out of 493921
- 294459 string characters out of 3147276
- 340182 words of memory out of 3000000
- 17924 multiletter control sequences out of 15000+200000
+ 15046 strings out of 493921
+ 294438 string characters out of 3147276
+ 342182 words of memory out of 3000000
+ 17941 multiletter control sequences out of 15000+200000
  45335 words of font info for 94 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  55i,8n,54p,1018b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1048,9 +1048,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2
 w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (6 pages, 205309 bytes).
+Output written on "x-cloud simulation.pdf" (7 pages, 359924 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
