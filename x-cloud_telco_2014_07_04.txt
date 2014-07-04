@@ -1,0 +1,17 @@
+Meeting notes from telco 2014-07-04
+
+Agenda:
+- Paper about influence of VM migration on service performance in x-cloud
+	- 2d mobility model
+	- advanced DC model
+		- with several types of VM
+		- influence of VM migration on DC and service performance (delay)
+	
+	- submit to CloudCom in Singapore, 15-18 December - deadline: 31st of July
+
+TODO:
+- William: describe the idea and current simulation framework
+- Jakub: think about modeling of VM migration
+- All: think about the structure of the document (x-cloud simulation). More clear separation between global perspectives (more long-term view) and research topics (more paper oriented, specific, short-term)
+
+- Next telco: 2014-07-08 (Tue) 10:00

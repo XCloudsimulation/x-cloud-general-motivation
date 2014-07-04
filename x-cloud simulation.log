@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.25)  4 JUL 2014 14:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.25)  4 JUL 2014 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -877,8 +877,9 @@ Overfull \hbox (13.87294pt too wide) in paragraph at lines 5--6
 LaTeX Warning: Citation `ericsson_dot' on page 2 undefined on input line 1.
 
 ) (./case_services.tex) (./desiard_model.tex) (./research_topics/dc_size.tex
-[2 <./omni_motivation.pdf>]) (./research_topics/mobility.tex)
-(./research_topics/nbr_devices.tex) (./research_topics/placement.tex
+[2 <./omni_motivation.pdf>]) (./research_topics/internet_of_things.tex)
+(./research_topics/mobility.tex) (./research_topics/nbr_devices.tex)
+(./research_topics/placement.tex
 <placement_diagram.jpg, id=32, 469.0323pt x 242.8272pt>
 File: placement_diagram.jpg Graphic file (type jpg)
 
@@ -917,12 +918,12 @@ File: performance_delay.jpg Graphic file (type jpg)
 <use performance_delay.jpg>
 Package pdftex.def Info: performance_delay.jpg used on input line 26.
 (pdftex.def)             Requested size: 253.04987pt x 205.65062pt.
+ [5]
 
-
-LaTeX Warning: Citation `bettstetter2001smooth' on page 5 undefined on input li
+LaTeX Warning: Citation `bettstetter2001smooth' on page 6 undefined on input li
 ne 40.
 
-[5])) (./x-cloud simulation.bbl
+)) (./x-cloud simulation.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 []\OT1/ptm/m/n/8 icancloud.  Avail-able on-line at $http : / / www . arcos . in
 f . uc3m . es /
@@ -945,14 +946,11 @@ Before submitting the final camera ready copy, remember to:
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 13508 strings out of 493315
- 247153 string characters out of 6137904
- 312660 words of memory out of 5000000
+ 13511 strings out of 493315
+ 247249 string characters out of 6137904
+ 311660 words of memory out of 5000000
  16594 multiletter control sequences out of 15000+600000
  45335 words of font info for 94 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -965,7 +963,7 @@ ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
 f-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2013/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (7 pages, 521320 bytes).
+Output written on "x-cloud simulation.pdf" (7 pages, 522212 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
