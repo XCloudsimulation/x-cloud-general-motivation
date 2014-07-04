@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: x-cloud simulation.aux
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: x-cloud simulation.aux
 The style file: plain.bst
 Database file #1: references.bib
 Warning--entry type for "BT_IP" isn't style-file defined
@@ -7,7 +9,12 @@ Repeated entry---line 1757 of file references.bib
  : @inproceedings{6123487
  :                       ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1923 of file references.bib
+ : @article{Greenberg:2008:CCR:1496091.1496103
+ :                                            ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "ericsson_dot"
+Warning--I didn't find a database entry for "bettstetter2001smooth"
 Warning--to sort, need author or key in BT_IP
 Warning--to sort, need author or key in rproject
 Warning--to sort, need author or key in pymatlab
@@ -18,4 +25,45 @@ Warning--to sort, need author or key in icancloud
 Warning--to sort, need author or key in simgrid
 Warning--to sort, need author or key in coolsim
 Warning--to sort, need author or key in ns3
-(There was 1 error message)
+You've used 37 entries,
+            2118 wiz_defined-function locations,
+            700 strings with 10953 characters,
+and the built_in function-call counts, 13197 in all, are:
+= -- 1301
+> -- 585
+< -- 16
++ -- 237
+- -- 198
+* -- 887
+:= -- 1978
+add.period$ -- 109
+call.type$ -- 37
+change.case$ -- 210
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 525
+empty$ -- 1108
+format.name$ -- 198
+if$ -- 2919
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 26
+newline$ -- 176
+num.names$ -- 54
+pop$ -- 312
+preamble$ -- 1
+purify$ -- 173
+quote$ -- 0
+skip$ -- 411
+stack$ -- 0
+substring$ -- 784
+swap$ -- 168
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 148
+warning$ -- 10
+while$ -- 108
+width$ -- 39
+write$ -- 379
+(There were 2 error messages)

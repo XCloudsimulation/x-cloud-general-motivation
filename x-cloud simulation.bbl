@@ -101,6 +101,11 @@ Phillipa Gill, Martin Arlitt, Zongpeng Li, and Anirban Mahanti.
 \newblock In {\em Proceedings of the 7th ACM SIGCOMM Conference on Internet
   Measurement}, IMC '07, pages 15--28, New York, NY, USA, 2007. ACM.
 
+\bibitem{Greenberg:2008:CCR:1496091.1496103}
+Albert Greenberg, James Hamilton, David~A. Maltz, and Parveen Patel.
+\newblock The cost of a cloud: Research problems in data center networks.
+\newblock {\em SIGCOMM Comput. Commun. Rev.}, 39(1):68--73, December 2008.
+
 \bibitem{5959161}
 H.~Khazaei, J.~Misic, and V.B. Misic.
 \newblock Performance analysis of cloud computing centers using m/g/m/m+r
@@ -141,6 +146,18 @@ Xue Liu, J.~Heo, and Lui Sha.
   Telecommunication Systems, 2005. 13th IEEE International Symposium on}, pages
   307--310, Sept 2005.
 
+\bibitem{liu2001traffic}
+Zhen Liu, Nicolas Niclausse, and C{\'e}sar Jalpa-Villanueva.
+\newblock Traffic model and performance evaluation of web servers.
+\newblock {\em Performance Evaluation}, 46(2):77--100, 2001.
+
+\bibitem{Pakbaznia:2009:MDC:1594233.1594268}
+Ehsan Pakbaznia and Massoud Pedram.
+\newblock Minimizing data center cooling and server power costs.
+\newblock In {\em Proceedings of the 14th ACM/IEEE International Symposium on
+  Low Power Electronics and Design}, ISLPED '09, pages 145--150, New York, NY,
+  USA, 2009. ACM.
+
 \bibitem{papagiannaki2003measurement}
 Konstantina Papagiannaki, Sue Moon, Chuck Fraleigh, Patrick Thiran, and
   Christophe Diot.
@@ -148,6 +165,11 @@ Konstantina Papagiannaki, Sue Moon, Chuck Fraleigh, Patrick Thiran, and
   network.
 \newblock {\em Selected Areas in Communications, IEEE Journal on},
   21(6):908--921, 2003.
+
+\bibitem{patel2005cost}
+Chandrakant~D Patel and Amip~J Shah.
+\newblock Cost model for planning, development and operation of a data center,
+  2005.
 
 \bibitem{5634134}
 G.~Piro, L.A. Grieco, G.~Boggia, F.~Capozzi, and P.~Camarda.
