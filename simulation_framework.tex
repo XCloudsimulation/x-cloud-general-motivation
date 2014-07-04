@@ -2,11 +2,34 @@ Below are the candidate simulation tools and frameworks proposed during the thir
 
 \subsubsection{SimJava}
 
+
 \subsubsection{SimPy}
 Python and SimPy has the ability to run powerful statistical analyses with R \cite{rproject}, interact with a MATLAB workspace \cite{pymatlab}, and bind NS-3 modules \cite{ns3python}. Nevertheless, not able to confirm weather or not you can call uncompiled MATLAB SimEvent modules.
 
+
 \subsubsection{LTE-Sim}
-\cite{5634134}
+LTE-Sim \cite{5634134} provides a modular event-driven simulation framework that allows you to model and LTE mobile access network, including:
+
+\begin{itemize}
+\item eNB
+\item Radio channel
+\item PHY/MAC
+\item Propagation
+\item IP backbone
+\item UE
+\end{itemize}
+
+The above models are included in a relatively high detail, however, simplifications are not supplied. The simulation framework is accesible in C++, and allows for you to build custom modules to enable replacing existig and adding components. The framework enables sending packets addressed to a specific node. The framwork by default also includes two exchangable mobility models.
+
+What remains to be determined is:
+
+\begin{itemize}
+\item Output analysis?
+\item Interoperabilty with other frameworks, such as NS-3, matlab etc?
+\end{itemize}
+
+Although flexible, the framework is ridigd to LTE and cannot easily be modified to other standards. On the other hand, if your chnages are incremental to LTE then the framework will provide fast means to deploy your experiments.
+
 
 \subsubsection{CloudSim} \cite{cloudsim}
 
@@ -16,14 +39,18 @@ CloudSim adaptations:
 \item CloudAnalyst \cite{wickremasinghe2010cloudanalyst}
 \end{itemize}
 
+
 \subsubsection{GreenCloud}
 \cite{greencloud}
+
 
 \subsubsection{iCanCloud}
 \cite{icancloud}
 
+
 \subsubsection{MDCSim}
 \cite{5289159}
+
 
 \subsubsection{SimGrid} 
 \cite{simgrid}
@@ -33,10 +60,13 @@ CloudSim adaptations:
 \item \cite{bobelin2012scalable}
 \end{itemize}
 
+
 \subsubsection{CoolSim}
 \cite{coolsim}
 
+
 \subsubsection{ns-3}
 \cite{ns3}
+
 
 \subsubsection{Matlab+SimEvent} (and TrueTime)

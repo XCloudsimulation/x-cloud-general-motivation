@@ -25,45 +25,45 @@ Warning--to sort, need author or key in icancloud
 Warning--to sort, need author or key in simgrid
 Warning--to sort, need author or key in coolsim
 Warning--to sort, need author or key in ns3
-You've used 37 entries,
+You've used 42 entries,
             2118 wiz_defined-function locations,
-            700 strings with 10953 characters,
-and the built_in function-call counts, 13197 in all, are:
-= -- 1301
-> -- 585
-< -- 16
-+ -- 237
-- -- 198
-* -- 887
-:= -- 1978
-add.period$ -- 109
-call.type$ -- 37
-change.case$ -- 210
+            723 strings with 11914 characters,
+and the built_in function-call counts, 15608 in all, are:
+= -- 1535
+> -- 695
+< -- 21
++ -- 280
+- -- 236
+* -- 1044
+:= -- 2329
+add.period$ -- 125
+call.type$ -- 42
+change.case$ -- 244
 chr.to.int$ -- 0
-cite$ -- 47
-duplicate$ -- 525
-empty$ -- 1108
-format.name$ -- 198
-if$ -- 2919
+cite$ -- 52
+duplicate$ -- 635
+empty$ -- 1304
+format.name$ -- 236
+if$ -- 3469
 int.to.chr$ -- 0
-int.to.str$ -- 37
-missing$ -- 26
-newline$ -- 176
-num.names$ -- 54
-pop$ -- 312
+int.to.str$ -- 42
+missing$ -- 31
+newline$ -- 201
+num.names$ -- 64
+pop$ -- 361
 preamble$ -- 1
-purify$ -- 173
+purify$ -- 202
 quote$ -- 0
-skip$ -- 411
+skip$ -- 502
 stack$ -- 0
-substring$ -- 784
-swap$ -- 168
-text.length$ -- 16
+substring$ -- 933
+swap$ -- 216
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 148
+type$ -- 168
 warning$ -- 10
-while$ -- 108
-width$ -- 39
-write$ -- 379
+while$ -- 130
+width$ -- 44
+write$ -- 435
 (There were 2 error messages)
