@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.25)  4 JUL 2014 14:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.25)  4 JUL 2014 14:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -893,9 +893,16 @@ Underfull \hbox (badness 5189) in paragraph at lines 30--31
 -structed,
  []
 
-) (./simulation_framework.tex [4]) (./papers.tex
-(./proposed_papers/simulator_survey.tex) (./proposed_papers/bottlenecks.tex
-<congestion_delay.jpg, id=39, 423.5022pt x 187.54065pt>
+) (./simulation_framework.tex [4])
+<papers_sequence.jpg, id=39, 765.3393pt x 431.4519pt>
+File: papers_sequence.jpg Graphic file (type jpg)
+
+<use papers_sequence.jpg>
+Package pdftex.def Info: papers_sequence.jpg used on input line 115.
+(pdftex.def)             Requested size: 253.04987pt x 142.64949pt.
+ (./papers.tex (./proposed_papers/simulator_survey.tex) (./proposed_papers/bott
+lenecks.tex
+<congestion_delay.jpg, id=40, 423.5022pt x 187.54065pt>
 File: congestion_delay.jpg Graphic file (type jpg)
 
 <use congestion_delay.jpg>
@@ -903,8 +910,8 @@ Package pdftex.def Info: congestion_delay.jpg used on input line 5.
 (pdftex.def)             Requested size: 253.04987pt x 112.05879pt.
 ) (./proposed_papers/topology.tex)
 (./proposed_papers/vm_placement.tex) (./proposed_papers/model.tex)
-(./proposed_papers/performance_mobility.tex [5 <./congestion_delay.jpg>]
-<performance_delay.jpg, id=43, 461.0826pt x 374.71996pt>
+(./proposed_papers/performance_mobility.tex
+<performance_delay.jpg, id=41, 461.0826pt x 374.71996pt>
 File: performance_delay.jpg Graphic file (type jpg)
 
 <use performance_delay.jpg>
@@ -912,16 +919,16 @@ Package pdftex.def Info: performance_delay.jpg used on input line 26.
 (pdftex.def)             Requested size: 253.04987pt x 205.65062pt.
 
 
-LaTeX Warning: Citation `bettstetter2001smooth' on page 6 undefined on input li
+LaTeX Warning: Citation `bettstetter2001smooth' on page 5 undefined on input li
 ne 40.
 
-)) (./x-cloud simulation.bbl
+[5])) (./x-cloud simulation.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 []\OT1/ptm/m/n/8 icancloud.  Avail-able on-line at $http : / / www . arcos . in
 f . uc3m . es /
  []
 
-[6 <./performance_delay.jpg>])
+[6])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -933,16 +940,20 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[7] (./x-cloud simulation.aux)
+[7 <./papers_sequence.jpg> <./congestion_delay.jpg> <./performance_delay.jpg>]
+(./x-cloud simulation.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 13502 strings out of 493315
- 247018 string characters out of 6137904
- 307660 words of memory out of 5000000
- 16589 multiletter control sequences out of 15000+600000
+ 13508 strings out of 493315
+ 247153 string characters out of 6137904
+ 312660 words of memory out of 5000000
+ 16594 multiletter control sequences out of 15000+600000
  45335 words of font info for 94 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,8n,55p,958b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -954,10 +965,10 @@ ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
 f-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2013/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on "x-cloud simulation.pdf" (7 pages, 353205 bytes).
+Output written on "x-cloud simulation.pdf" (7 pages, 521320 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
